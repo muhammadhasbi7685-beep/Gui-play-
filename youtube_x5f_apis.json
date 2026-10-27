@@ -1,0 +1,11 @@
+{
+  "youtube_apis": [
+    "https://api.cobalt.tools/api/json",
+    "https://co.wuk.sh/api/json",
+    "https://cobalt.meowing.de/api/json",
+    "https://api.co.wuk.sh/api/json",
+    "https://youtube-to-mp3-api.p.rapidapi.com/mp3"
+  ],
+  "last_update": "2026-10-27",
+  "note": "API ini auto-update sama yang punya, lu gak perlu ganti manual"
+}
